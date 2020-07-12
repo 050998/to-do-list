@@ -16,10 +16,7 @@ function addNode(){
 
 ul.addEventListener("click", function(event){
 event.target.classList.toggle("toggle-item")
-	
 })
-
-
 
 
 form.addEventListener("submit",function(event){
