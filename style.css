@@ -1,0 +1,15 @@
+.userinput{
+padding: 16px 32px;
+border-radius: 5px;
+border: 2px solid #888;
+}
+
+.magnify {
+	height: 30px ;
+	width : 30px;
+	fill: #888;
+}
+
+.toggle-item {
+	text-decoration: line-through;	
+}
